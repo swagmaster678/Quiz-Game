@@ -60,7 +60,7 @@ let quizQuestion = [
 
                 B:"myName = 'Brice'",
 
-                C:"let myName: 'Sloan'",
+                C:"let myName: ''",
 
                 D:"const myName = 'Brice'",
         },
